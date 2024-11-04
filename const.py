@@ -9,6 +9,9 @@ BG_COLOR = (100, 100, 100)
 PLAYER_IMG = "img/space_ship.png"
 ENEMY_IMG = "img/enemy.png"
 ROCKET_IMG = "img/rocket.png"
+EXPLOSE_IMG = "img/nuclear-explosion.png"
+WIN_IMG = "img/win.png"
+GAME_OVER_IMG = "img/game-over.png"
 # image parameters
 IMG_SIZE = 50
 # config players
